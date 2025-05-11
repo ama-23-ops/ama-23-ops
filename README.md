@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Amasha Jagathsinghe 
 
 <p align="left">
-  <a href=" https://ama-23-ops.github.io/" target="_blank">
+  <a href="https://ama-23-ops.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/amasha-jagathsinghe" target="_blank">
